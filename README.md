@@ -11,4 +11,4 @@ sudo -i
 
 实际效果图：
 
-![Double_WAN](https://github.com/Chinanet23650/Ubiquiti-Shell/tree/main/Screenshots/double_wan.png.png)
+![Double_WAN](https://raw.githubusercontent.com/Chinanet23650/Ubiquiti-Shell/main/Screenshots/double_wan.png.png)
