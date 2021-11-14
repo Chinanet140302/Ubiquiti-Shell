@@ -11,4 +11,4 @@ sudo -i
 
 实际效果图：
 
-![Double_WAN](https://img01.sogoucdn.com/app/a/100520146/2847F4EDECC0EE0A5221B65D83616AF9)
+![Double_WAN](https://graph.baidu.com/resource/1268e446e8f674a1f391901636866154.jpg)
